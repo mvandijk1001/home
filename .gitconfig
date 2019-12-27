@@ -1,0 +1,6 @@
+[core]
+	excludesfile = /home/mvandijk/.gitignore_global
+[user]
+    name = Matthew Van Dijk
+[alias]
+    lg = log --oneline -n10
