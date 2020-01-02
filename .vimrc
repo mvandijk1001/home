@@ -1,5 +1,5 @@
 " Visual
-colorscheme solarized
+colorscheme gruvbox
 set background=dark
 syntax enable 
 set number
