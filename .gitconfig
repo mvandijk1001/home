@@ -2,5 +2,6 @@
 	excludesfile = /home/mvandijk/.gitignore_global
 [user]
     name = Matthew Van Dijk
+    email = mvandijk1001@gmail.com
 [alias]
     lg = log --oneline -n10

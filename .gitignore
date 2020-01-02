@@ -9,3 +9,6 @@
 !.gitignore_global
 !.profile
 !.tmux.conf
+!.vim/
+!.vim/**
+!.vimrc
