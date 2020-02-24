@@ -5,3 +5,5 @@
     email = mvandijk1001@gmail.com
 [alias]
     lg = log --oneline -n10
+[pull]
+    rebase = true

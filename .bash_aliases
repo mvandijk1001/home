@@ -10,3 +10,5 @@ alias atmux='tmux attach -d'
 # 0|2
 # The selectp commands reset the oder the panes were selected in
 alias ntmux='tmux new -d; tmux splitw -h; tmux splitw -v; tmux selectp -t 1; tmux selectp -t 0; tmux attach'
+
+alias python3_venv='python3 -m venv venv'
