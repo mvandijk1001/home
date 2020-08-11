@@ -12,3 +12,5 @@ alias atmux='tmux attach -d'
 alias ntmux='tmux new -d; tmux splitw -h; tmux splitw -v; tmux selectp -t 1; tmux selectp -t 0; tmux attach'
 
 alias python3_venv='python3 -m venv venv'
+
+alias psdb='ps aux | grep -iE "sequoia|sdb"'

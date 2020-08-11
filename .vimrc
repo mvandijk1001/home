@@ -48,6 +48,7 @@ set lazyredraw
 set noerrorbells
 set novisualbell
 set t_vb=
+set noswapfile
 
 " Search
 set ignorecase
